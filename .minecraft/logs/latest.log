@@ -1,0 +1,94 @@
+[17:20:33] [main/INFO]: Loading for game Minecraft 1.16.4
+[17:20:34] [ForkJoinPool-1-worker-9/WARN]: Non-Fabric mod JAR at "E:\Modded Minecraft\MultiMC\instances\1.16.4\.minecraft\mods\randompatches-1.16.2-1.22.1.2.jar", ignoring
+[17:20:34] [ForkJoinPool-1-worker-6/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[17:20:34] [ForkJoinPool-1-worker-15/WARN]: The mod "cardinal-components" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 9
+[17:20:34] [ForkJoinPool-1-worker-2/WARN]: The mod "cardinal-components-world" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:34] [ForkJoinPool-1-worker-13/WARN]: The mod "cardinal-components-level" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:34] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components-util" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:34] [ForkJoinPool-1-worker-15/WARN]: The mod "cardinal-components-base" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:34] [ForkJoinPool-1-worker-9/WARN]: The mod "cardinal-components-scoreboard" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:34] [ForkJoinPool-1-worker-8/WARN]: The mod "cardinal-components-item" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:34] [ForkJoinPool-1-worker-2/WARN]: The mod "cardinal-components-entity" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:34] [ForkJoinPool-1-worker-3/WARN]: The mod "cardinal-components-block" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:34] [ForkJoinPool-1-worker-13/WARN]: The mod "cardinal-components-chunk" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[17:20:35] [main/WARN]: Warnings were found! 
+ - Conflicting versions found for fabric-networking-v0: used 0.1.10+e00ecb5f4e, also found 0.1.10+e00ecb5f3a
+[17:20:35] [main/INFO]: [FabricLoader] Loading 93 mods: fabric-renderer-api-v1@0.3.3+a4467d2a3a, fermion@2.6.206, fabric-keybindings-v0@0.2.0+3fa9f7c53a, roughlyenoughitems-api@5.8.1, kubejs@1.5.4, cloth-common-events-v1@1.4.8, cardinal-components-block@2.6.0, fermion-orientation@1.1.205, fabricloader@0.10.6+build.214, fabric-structure-api-v1@1.1.0+f8ac1db23a, fabric-containers-v0@0.1.8+045df74f3a, passable-leaves@1.2.3, cloth-durability-bar-api-v1@1.4.8, fabric-object-builder-api-v1@1.9.2+a89534ab3a, fabric-game-rule-api-v1@1.0.3+a4467d2a3a, libblockattributes@0.8.4, fabric-api-base@0.2.0+9f0fb4b83a, fallingleaves@1.0, special-circumstances@1.7.206, fabric-rendering-data-attachment-v1@0.1.4+f8ac1db23a, canvas@1.0.989, fiber@0.23.0-1, cardinal-components-item@2.6.0, fabric-textures-v0@1.0.5+a4467d2a3a, roughlyenoughresources@2.1.2, fabric-rendering-fluids-v1@0.1.12+f8ac1db23a, cardinal-components-level@2.6.0, modern_industrialization@0.3.5, trees-do-not-float@1.12.97, simplexterrain@0.7.0, waila@1.9.22, fabric-blockrenderlayer-v1@1.1.4+c6a8ea893a, json-model-extensions@1.15.124, fabric-lifecycle-events-v1@1.2.0+74cc3b203a, cardinal-components-chunk@2.6.0, cardinal-components-util@2.6.0, fabric-renderer-registries-v1@2.2.0+f8ac1db23a, libblockattributes_items@0.8.4, fabric-loot-tables-v1@1.0.1+432ea1883a, fabric@0.25.1+build.416-1.16, cloth-armor-api-v1@1.4.8, cardinal-components-scoreboard@2.6.0, fabric-particles-v1@0.2.2+fb0d9b0e3a, libblockattributes_core@0.8.4, fabric-networking-v0@0.1.10+e00ecb5f4e, fabric-screen-handler-api-v1@1.1.0+872498413a, minecraft@1.16.4, fabric-networking-blockentity-v0@0.2.5+b50ffc7b3a, roughlyenoughitems-default-plugin@5.8.1, modmenu@1.14.6+build.31, cloth-basic-math@0.5.1, jankson@3.0.1+j1.2.0, illuminations@1.2.3, fabric-command-api-v1@1.0.9+a4467d2a3a, phosphor@0.6.0+build.7, fabric-tool-attribute-api-v1@1.2.4+2b4623793a, fabric-renderer-indigo@0.4.3+a4467d2a3a, roughlyenoughitems-runtime@5.8.1, frex@3.4.140, cloth-client-events-v0@1.4.5, roughlyenoughitems@5.8.1, fabric-item-api-v1@1.2.0+f8ac1db23a, fabric-crash-report-info-v1@0.1.2+b7f9825d3a, fabric-events-interaction-v0@0.4.1+f8ac1db23a, cardinal-components@2.6.0, patchouli@1.16.2-44-FABRIC, fabric-rendering-v0@1.1.1+f8ac1db23a, fabric-rendering-v1@1.3.1+f8ac1db23a, fabric-key-binding-api-v1@1.0.1+730711c63a, cloth-config2@4.8.3, autoconfig1u@3.3.1, fabric-resource-loader-v0@0.3.1+facf3bbf3a, fabric-content-registries-v0@0.1.9+059ea8663a, cardinal-components-world@2.6.0, fabric-tag-extensions-v0@1.0.3+ac8e8c593a, blue_endless_jankson@1.1.2, fabric-biome-api-v1@3.0.0+8367596d3a, advanced_runtime_resource_pack@0.2.9, cardinal-components-entity@2.6.0, appleskin@1.0.11, libblockattributes_fluids@0.8.4, platos@1.6.2, fabric-registry-sync-v0@0.6.1+a4467d2a3a, fabric-commands-v0@0.2.0+52d308363a, modcredits@1.0.0, cardinal-components-base@2.6.0, fabric-mining-levels-v0@0.1.2+b764ce993a, fabric-events-lifecycle-v0@0.2.0+16acbe5b3a, fabric-models-v0@0.1.1+f8ac1db23a, fabric-item-groups-v0@0.2.1+a4467d2a3a, team_reborn_energy@0.1.0, fabric-object-builders-v0@0.7.1+a4467d2a3a, fermion-varia@2.4.206
+[17:20:35] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/E:/Modded%20Minecraft/MultiMC/libraries/net/fabricmc/sponge-mixin/0.8.2+build.24/sponge-mixin-0.8.2+build.24.jar Service=Knot/Fabric Env=CLIENT
+[17:20:37] [main/INFO]: I used the json to destroy the json
+[17:20:40] [main/WARN]: Method overwrite conflict for checkTagExists in passableleaves.mixins.json:Meh, previously written by dex.passableleaves.mixin.LeavesBlockMixin. Skipping method.
+[17:20:40] [main/WARN]: Method overwrite conflict for getPassable in passableleaves.mixins.json:Meh, previously written by dex.passableleaves.mixin.LeavesBlockMixin. Skipping method.
+[17:20:45] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[17:20:45] [main/INFO]: Setting user: Mr_Bonito
+[17:20:45] [main/INFO]: Initialized entrypoint KubeJSOtherEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint KubeJSWorldEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint KubeJSPlayerEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint KubeJSEntityEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint KubeJSBlockEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint KubeJSItemEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint KubeJSRecipeEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint KubeJSFluidEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint AstromineRecipeEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint TechRebornRecipeEventHandler.
+[17:20:46] [main/INFO]: Initialized entrypoint MIRecipeEventHandler.
+[17:20:46] [main/INFO]: Loaded common.properties
+[17:20:52] [main/INFO]: Loaded babel.min.js in 6.757 s
+[17:20:54] [main/INFO]: [STDOUT]: Babel Transformer done in 1.560 s
+[17:20:54] [main/INFO]: Hello, World! (You will only see this line once in console, during startup)
+[17:20:54] [main/INFO]: Loaded script startup_scripts:script.js in 73.31 ms
+[17:20:54] [main/INFO]: Loaded 1/1 KubeJS startup scripts in 78.53 ms
+[17:20:54] [main/INFO]: [STDOUT]: Babel Transformer done in 48.66 ms
+[17:20:54] [main/INFO]: Hello, World! (You will see this line every time client resources reload)
+[17:20:54] [main/INFO]: Loaded script client_scripts:script.js in 3.625 ms
+[17:20:54] [main/INFO]: Loaded 1/1 KubeJS client scripts in 5.606 ms
+[17:20:55] [main/INFO]: [RER] Hello Fabric world!
+[17:20:55] [main/INFO]: Modern Industrialization setup done!
+[17:20:55] [main/INFO]: Discovered plugin modern_industrialization:plugin provided by modern_industrialization at aztech.modern_industrialization.compat.waila.MIWailaPlugin
+[17:20:55] [main/INFO]: Discovered plugin waila:core provided by waila at mcp.mobius.waila.addons.core.PluginCore
+[17:20:55] [main/INFO]: Discovered plugin waila:vanilla provided by waila at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[17:20:55] [main/INFO]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[17:20:55] [main/INFO]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[17:20:55] [main/INFO]: Registering plugin at aztech.modern_industrialization.compat.waila.MIWailaPlugin
+[17:20:55] [main/INFO]: [STDOUT]: Hello Fabric world!
+[17:20:56] [main/INFO]: Modern Industrialization client setup done!
+[17:20:56] [main/INFO]: [Indigo] Different rendering plugin detected; not applying Indigo.
+[17:20:56] [main/INFO]: Config loaded.
+[17:20:57] [main/INFO]: Backend library: LWJGL version 3.2.2 build 10
+[17:20:57] [main/INFO]: Loaded client.properties
+[17:21:00] [main/INFO]: Narrator library for x64 successfully loaded
+[17:21:00] [main/INFO]: Reloading ResourceManager: Default, Fermion, Fabric Renderer API (v1), Fabric Key Bindings (v0), Fermion Orientation, Fabric Loader, Fabric Containers (v0), Passable Leaves, Fabric Object Builder API (v1), Fabric Game Rule API (v1), Fabric API Base, LibBlockAttributes, Falling Leaves, Special Circumstances, Fabric Rendering Data Attachment (v1), Canvas Renderer, Fabric Textures (v0), Roughly Enough Resources, Fabric Rendering Fluids (v1), Modern Industrialization, Trees Do Not Float, Hwyla, Simplex Terrain, JSON Model Extensions, Fabric BlockRenderLayer Registration (v1), Fabric Lifecycle Events (v1), Fabric Renderer Registries (v1), LibBlockAttributes (Items), Fabric Loot Tables (v1), Fabric API, LibBlockAttributes (Core), Fabric Networking (v0), Fabric Screen Handler API (v1), Fabric Networking Block Entity (v0), Jankson, Fabric Command API (v1), Phosphor, Fabric Tool Attribute API (v1), REI (Runtime), Fabric Renderer - Indigo, FREX, Roughly Enough Items, Fabric Crash Report Info (v1), Fabric Item API (v1), Fabric Events Interaction (v0), Fabric Rendering (v0), Fabric Rendering (v1), Fabric Key Binding API (v1), Cloth Config v4, Auto Config v1 Updated, Fabric Resource Loader (v0), Fabric Content Registries (v0), Fabric Tag Extensions (v0), Fabric Biome API (v1), LibBlockAttributes (Fluids), Fabric Registry Sync (v0), Fabric Mining Levels (v0), Fabric Events Lifecycle (v0), Fabric Models (v0), Fabric Item Groups (v0), Energy, Fabric Object Builders (v0), Fermion Varia, AppleSkin, Illuminations, KubeJS, Mod Menu, Patchouli, KubeJS Resource Pack, Better-Leaves-3.0-§31.16.2+§o.zip, Round-Trees-4.0-§31.16.2+§o.zip, Plato's Transporters
+[17:21:00] [main/INFO]: ARRP register
+[17:21:00] [main/INFO]: ==================  CANVAS RENDERER DEBUG INFORMATION ==================
+[17:21:00] [main/INFO]:  Java: 1.8.0_232 64bit
+[17:21:00] [main/INFO]:  CPU: 12x AMD Ryzen 5 2600 Six-Core Processor 
+[17:21:00] [main/INFO]:  GPU: Using framebuffer using OpenGL 3.0  3.2.2 build 10
+[17:21:00] [main/INFO]:  OpenGL: GeForce GTX 1660 SUPER/PCIe/SSE2 GL version 4.6.0 NVIDIA 451.67, NVIDIA Corporation
+[17:21:00] [main/INFO]:  GpuShader4: Y  VboArb: N  VaoEnabled: Y  VaoArb: N
+[17:21:00] [main/INFO]:  (This message can be disabled by configuring logMachineInfo = false.)
+[17:21:00] [main/INFO]: ========================================================================
+[17:21:00] [main/INFO]: Player cosmetics retrieved
+[17:21:08] [main/INFO]: 'language' is an unsupported metadata key!
+[17:21:08] [main/INFO]: OpenAL initialized.
+[17:21:08] [main/INFO]: Sound engine started
+[17:21:09] [main/INFO]: Created: 1024x1024x4 minecraft:textures/atlas/blocks.png-atlas
+[17:21:09] [main/INFO]: Created: 256x128x4 minecraft:textures/atlas/signs.png-atlas
+[17:21:09] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/banner_patterns.png-atlas
+[17:21:09] [main/INFO]: Created: 1024x512x4 minecraft:textures/atlas/shield_patterns.png-atlas
+[17:21:09] [main/INFO]: Created: 256x256x4 minecraft:textures/atlas/chest.png-atlas
+[17:21:09] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/beds.png-atlas
+[17:21:09] [main/INFO]: Created: 512x256x4 minecraft:textures/atlas/shulker_boxes.png-atlas
+[17:21:10] [main/INFO]: Created: 512x256x0 minecraft:textures/atlas/particles.png-atlas
+[17:21:10] [main/INFO]: Created: 256x256x0 minecraft:textures/atlas/paintings.png-atlas
+[17:21:10] [main/INFO]: Created: 256x128x0 minecraft:textures/atlas/mob_effects.png-atlas
+[17:27:13] [main/INFO]: Stopping!
