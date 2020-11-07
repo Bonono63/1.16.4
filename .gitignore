@@ -7,6 +7,19 @@ bin-release/
 # Other files and folders
 .settings/
 
+.minecraft/logs/
+.minecraft/crash-reports/
+.minecraft/saves/
+.minecraft/.mixin.out/audit/mixin_implementation_report.txt
+.minecraft/config/fabric/indigo-renderer.properties
+.minecraft/config/jmx.properties
+.minecraft/logs/latest.log
+.minecraft/resourcepacks/Better-Leaves-3.0-§31.16.2+§o.zip
+.minecraft/resourcepacks/Round-Trees-4.0-§31.16.2+§o.zip
+.minecraft/resourcepacks/
+.minecraft/usercache.json
+.minecraft/realms_persistence.json
+
 # Executables
 *.swf
 *.air
