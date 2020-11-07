@@ -18,7 +18,7 @@ fullscreen:false
 bobView:true
 toggleCrouch:false
 toggleSprint:true
-mouseSensitivity:0.2370892018779342
+mouseSensitivity:0.23708920180797577
 fov:1.0
 screenEffectScale:1.0
 fovEffectScale:0.0
@@ -29,11 +29,11 @@ guiScale:3
 particles:0
 maxFps:260
 difficulty:2
-graphicsMode:0
-ao:0
+graphicsMode:1
+ao:2
 biomeBlendRadius:2
-renderClouds:true
-resourcePacks:["vanilla","fabric/fermion","fabric/fabric-renderer-api-v1","fabric/fabric-keybindings-v0","fabric/fermion-orientation","fabric/fabricloader","fabric/fabric-containers-v0","fabric/passable-leaves","fabric/fabric-object-builder-api-v1","fabric/fabric-game-rule-api-v1","fabric/fabric-api-base","fabric/libblockattributes","fabric/fallingleaves","fabric/special-circumstances","fabric/fabric-rendering-data-attachment-v1","fabric/canvas","fabric/fabric-textures-v0","fabric/roughlyenoughresources","fabric/fabric-rendering-fluids-v1","fabric/modern_industrialization","fabric/trees-do-not-float","fabric/waila","fabric/simplexterrain","fabric/json-model-extensions","fabric/fabric-blockrenderlayer-v1","fabric/fabric-lifecycle-events-v1","fabric/fabric-renderer-registries-v1","fabric/libblockattributes_items","fabric/fabric-loot-tables-v1","fabric/fabric","fabric/libblockattributes_core","fabric/fabric-networking-v0","fabric/fabric-screen-handler-api-v1","fabric/fabric-networking-blockentity-v0","fabric/jankson","fabric/fabric-command-api-v1","fabric/phosphor","fabric/fabric-tool-attribute-api-v1","fabric/roughlyenoughitems-runtime","fabric/fabric-renderer-indigo","fabric/frex","fabric/roughlyenoughitems","fabric/fabric-crash-report-info-v1","fabric/fabric-item-api-v1","fabric/fabric-events-interaction-v0","fabric/fabric-rendering-v0","fabric/fabric-rendering-v1","fabric/fabric-key-binding-api-v1","fabric/cloth-config2","fabric/autoconfig1u","fabric/fabric-resource-loader-v0","fabric/fabric-content-registries-v0","fabric/fabric-tag-extensions-v0","fabric/fabric-biome-api-v1","fabric/libblockattributes_fluids","fabric/fabric-registry-sync-v0","fabric/fabric-mining-levels-v0","fabric/fabric-events-lifecycle-v0","fabric/fabric-models-v0","fabric/fabric-item-groups-v0","fabric/team_reborn_energy","fabric/fabric-object-builders-v0","fabric/fermion-varia","fabric/appleskin","fabric/illuminations","fabric/kubejs","fabric/modmenu","fabric/patchouli","kubejs:resource_pack","file/Better-Leaves-3.0-§31.16.2+§o.zip","file/Round-Trees-4.0-§31.16.2+§o.zip"]
+renderClouds:false
+resourcePacks:["vanilla","fabric/fermion","fabric/fabric-renderer-api-v1","fabric/fabric-keybindings-v0","fabric/fermion-orientation","fabric/fabricloader","fabric/fabric-containers-v0","fabric/passable-leaves","fabric/fabric-object-builder-api-v1","fabric/fabric-game-rule-api-v1","fabric/fabric-api-base","fabric/libblockattributes","fabric/fallingleaves","fabric/special-circumstances","fabric/fabric-rendering-data-attachment-v1","fabric/canvas","fabric/fabric-textures-v0","fabric/roughlyenoughresources","fabric/fabric-rendering-fluids-v1","fabric/modern_industrialization","fabric/trees-do-not-float","fabric/waila","fabric/simplexterrain","fabric/json-model-extensions","fabric/fabric-blockrenderlayer-v1","fabric/fabric-lifecycle-events-v1","fabric/fabric-renderer-registries-v1","fabric/libblockattributes_items","fabric/fabric-loot-tables-v1","fabric/fabric","fabric/libblockattributes_core","fabric/fabric-networking-v0","fabric/fabric-screen-handler-api-v1","fabric/fabric-networking-blockentity-v0","fabric/jankson","fabric/fabric-command-api-v1","fabric/phosphor","fabric/fabric-tool-attribute-api-v1","fabric/roughlyenoughitems-runtime","fabric/fabric-renderer-indigo","fabric/frex","fabric/roughlyenoughitems","fabric/fabric-crash-report-info-v1","fabric/fabric-item-api-v1","fabric/fabric-events-interaction-v0","fabric/fabric-rendering-v0","fabric/fabric-rendering-v1","fabric/fabric-key-binding-api-v1","fabric/cloth-config2","fabric/autoconfig1u","fabric/fabric-resource-loader-v0","fabric/fabric-content-registries-v0","fabric/fabric-tag-extensions-v0","fabric/fabric-biome-api-v1","fabric/libblockattributes_fluids","fabric/fabric-registry-sync-v0","fabric/fabric-mining-levels-v0","fabric/fabric-events-lifecycle-v0","fabric/fabric-models-v0","fabric/fabric-item-groups-v0","fabric/team_reborn_energy","fabric/fabric-object-builders-v0","fabric/fermion-varia","fabric/appleskin","fabric/illuminations","fabric/kubejs","fabric/modmenu","fabric/patchouli","kubejs:resource_pack"]
 incompatibleResourcePacks:["fabric/appleskin","fabric/illuminations","fabric/kubejs","fabric/patchouli","kubejs:resource_pack"]
 lastServer:
 lang:en_us
@@ -62,9 +62,9 @@ tutorialStep:none
 mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
-skipMultiplayerWarning:false
+skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
 key_key.attack:key.mouse.left
 key_key.use:key.mouse.right
@@ -109,7 +109,7 @@ key_key.modern_industrialization.activate:key.keyboard.v
 key_key.waila.config:key.keyboard.keypad.0
 key_key.waila.show_overlay:key.keyboard.keypad.1
 key_key.waila.toggle_liquid:key.keyboard.keypad.2
-soundCategory_master:1.0
+soundCategory_master:0.08940397
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
