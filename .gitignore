@@ -29,16 +29,13 @@ bin-release/
 # Project files, i.e. `.project`, `.actionScriptProperties` and `.flexProperties`
 # should NOT be excluded as they contain compiler settings and other important
 # information for Eclipse / Flash Builder.
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
 .minecraft/.vote2020_marker
 .minecraft/config/fabric/indigo-renderer.properties
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
 .minecraft/config/jmx.properties
 .minecraft/options.txt
-.minecraft/.mixin.out/audit/mixin_implementation_report.txt
-.minecraft/XaeroWorldMap/Test (1)_null/cache_2/0_0.xwmc
-.minecraft/XaeroWorldMap/Test (1)_null/cache_2/0_-1.xwmc
-.minecraft/XaeroWorldMap/Test (1)_null/cache_2/-2_-1.xwmc
-.minecraft/XaeroWorldMap/Test (1)_null/cache_2/-1_0.xwmc
+.minecraft/XaeroWorldMap/*
+.minecraft/XaeroWaypoints/*
 .minecraft/server.dat
 .minecraft/options.txt
+
+natives
