@@ -1,0 +1,9 @@
+{ 
+	"triggerAtY": -32,
+	"dropObsidian": false,
+	"fireResistanceSeconds": 180,
+	"horizontalDistanceOffset": 128,
+	"dimensionFilter": [ 
+		"*"
+	]
+}

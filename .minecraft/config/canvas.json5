@@ -2,7 +2,7 @@
 	// Glow effect around light sources. Work-in-Progress
 	"enableBloom": true,
 	// Intensity of glow effect around light sources. 0.0 to 0.5, default is 0.1.
-	"bloomIntensity": 0.10000000149011612,
+	"bloomIntensity": 0.25,
 	// Size of bloom effect around light sources. 0.0 to 2.0, default is 0.25.
 	"bloomScale": 0.25,
 	// Animated foliage
@@ -24,7 +24,7 @@
 	// Makes light sources less cross-shaped. Chunk loading a little slower. Overall light levels remain similar.
 	"lightSmoothing": true,
 	// Mimics light blocked by nearby objects.
-	"aoShadingMode": "SUBTLE_BLOCK_LIGHT",
+	"aoShadingMode": "SUBTLE_ALWAYS",
 	// Setting > 0 may give slightly better FPS at cost of potential flickering when lighting changes.
 	"maxLightmapDelayFrames": 0,
 	// Extra lightmap capacity. Ensure enabled if you are getting `unable to create HD lightmap(s) - out of space' messages.
