@@ -1,15 +1,15 @@
 { 
-	"fluidAdvancements": false,
-	"fluidStatusEffects": false,
+	"fluidAdvancements": true,
+	"fluidStatusEffects": true,
 	// Whether we should unlimit the hard 60 fps limit placed on the title screen.
-	"unlimitTitleScreenFps": false,
+	"unlimitTitleScreenFps": true,
 	"openingAnimation": { 
-		"fluidChatOpening": false,
+		"fluidChatOpening": true,
 		"fluidOpenSlideFromBottom": false,
-		"fluidOpenFade": false,
+		"fluidOpenFade": true,
 		"fluidAnimationDuration": 400,
 		"affectsGameMenus": true,
-		"affectsInventories": true,
+		"affectsInventories": false,
 		"ignoreSlideWhenRedirected": true,
 		"ignoreFadeWhenRedirected": false
 	},
