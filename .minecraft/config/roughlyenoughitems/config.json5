@@ -3,7 +3,7 @@
 		"favorites": [ 
 ],
 		// Declares whether cheating mode is on.
-		"cheating": false,
+		"cheating": true,
 		"favoritesEnabled": true,
 		"keyBindings": { 
 			"recipeKeybind": { 
@@ -54,11 +54,143 @@
 				"{rule:{},id:\"roughlyenoughitems:manual\"}"
 			],
 			"filteredStacks": [ 
-]
+				{ 
+					"id": "minecraft:stone_axe",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "rocks:cobblestone_splitter",
+					"Count": 1,
+					"type": "item"
+				},
+				{ 
+					"id": "astromine:stone_mattock",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "astromine:stone_mining_tool",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:wooden_pickaxe",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:stone_pickaxe",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "astromine:wooden_mattock",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:stone_shovel",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:wooden_sword",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:wooden_hoe",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "astromine:wooden_mining_tool",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "rocks:sandstone_splitter",
+					"Count": 1,
+					"type": "item"
+				},
+				{ 
+					"id": "rocks:red_sandstone_splitter",
+					"Count": 1,
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:stone_hoe",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:stone_sword",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "rocks:end_stone_splitter",
+					"Count": 1,
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:wooden_axe",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				},
+				{ 
+					"id": "minecraft:wooden_shovel",
+					"Count": 1,
+					"tag": { 
+						"Damage": 0
+					},
+					"type": "item"
+				}
+			]
 		},
 		"tooltips": { 
 			// Declares whether REI should append mod names to entries.
-			"appendModNames": true,
+			"appendModNames": false,
 			// Declares whether favorites tooltip should be displayed.
 			"displayFavoritesTooltip": false
 		},
